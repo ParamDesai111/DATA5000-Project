@@ -175,4 +175,4 @@ Suggested run order:
 ---
 
 ## Author
-Project code in this repository: **ParamDesai111** in collaboration with Zhi Lin and Usman Khan at Carleton University
+Project code in this repository: Param Desai in collaboration with Zhi Lin and Usman Khan at Carleton University
